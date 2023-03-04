@@ -1,17 +1,15 @@
-### Hi there 👋
+# Cristhian Jurado (Creyk)
 
-<!--
-**Chrs-creyk/chrs-creyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bienvenido** a mi página web. Aquí encontrarás información sobre mí y mis intereses.
 
-Here are some ideas to get you started:
+Soy un estudiante de programación que ama crear sitios web, aplicaciones, videojuegos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on sustentable friendly projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-(image.png)
+## Mis intereses
+
+- Programación
+- Diseño web
+- Ecologia
+- Sustentabilidad
+- Desarrollo de paginas web y aplicaciones
+- Desarrollo de videojuegos
+
