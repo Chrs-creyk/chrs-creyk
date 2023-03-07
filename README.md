@@ -10,6 +10,6 @@ Me apasiona la tecnología y creo que podemos utilizarla para crear soluciones e
 
 ##### ***Si deseas saber más sobre mi o simplemente deseas contactarme, no dudes en enviarme un mensaje.***
 
-### **¡Gracias por visitar mi perfil y ser parte de mi compromiso con el planeta! 🌱**
+#### **¡Gracias por visitar mi perfil y ser parte de mi compromiso con el planeta! 🌱**
 
 
