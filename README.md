@@ -1,15 +1,13 @@
-Bienvenidos a mi perfil de GitHub 🐾🌞
+Welcome to my GitHub profile 🐾🌞
 
- <span style="color: #CC0000;">¡Hola! Soy Cristhian, o Creyk estudiante de programación con una profunda conexión con la naturaleza y un compromiso con la sostenibilidad. Mi objetivo es utilizar mi habilidad en la programación y el arte para hacer una diferencia positiva en el mundo y ayudar a proteger el planeta y la vida. Actualmente, estoy estudiando programacion en [Hoberton School](https://www.holbertonschool.com/)
+>Hello! I am Cristhian, or Creyk, a programming student with a deep connection to nature and a commitment to sustainability. My goal is to use my programming and artistic skills to make a positive difference in the world and help protect the planet and life. Currently, I am studying programming at [Hoberton School](https://www.holbertonschool.com/)
 
-Me apasiona la tecnología y creo que podemos utilizarla para crear soluciones efectivas y eficientes para los desafíos ambientales a los que nos enfrentamos.
+I am passionate about technology and believe we can use it to create effective and efficient solutions to the environmental challenges we face.
 
-<span style="color: #CC0000;">Cuando no estoy pegado a una pantalla disfruto pasar tiempo al aire libre y aprender sobre nuevas tecnologías ya que creo firmemente que la tecnología puede ser utilizada para mejorar nuestro mundo y ayudar a proteger nuestro medio ambiente.
+When I'm not glued to a screen, I enjoy spending time outdoors and learning about new technologies, as I firmly believe technology can be used to improve our world and help protect our environment.
 
-<span style="color: #CCCCCC;">Además de mis habilidades técnicas, también tengo excelentes habilidades de colaboración y comunicación, lo que me permite trabajar bien en equipo y contribuir a proyectos con otros desarrolladores y desarrolladoras de todo el mundo.
+In addition to my technical skills, I also have excellent collaboration and communication skills, which allow me to work well in teams and contribute to projects with other developers from around the world.
 
-##### ***Si deseas saber más sobre mi o simplemente deseas contactarme, no dudes en enviarme un mensaje.***
+#### ***If you want to know more about me or just want to get in touch, feel free to send me a message.***
 
-## **¡Gracias por visitar mi perfil y ser parte de mi compromiso con el mundo! 🌞🌱🐾**
-
-
+### **Thank you for visiting my profile and being a part of my commitment to the world!🌱"**
