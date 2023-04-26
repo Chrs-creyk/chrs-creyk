@@ -36,7 +36,7 @@
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" style="max-width: 100%;">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </p>
-__________________
+____________________________________________
 
 ##### *If you want to know more about me or just want to get in touch, feel free to contact me here: [mail](crisdevs117@gmail.com)*
 
