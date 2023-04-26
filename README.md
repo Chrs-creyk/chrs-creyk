@@ -32,9 +32,9 @@
 ## Operating Systems
 
 <p align="center">
-    <img src="https://camo.githubusercontent.com/878e15b4f7576e844856dc60d855ba0587d3…2d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b" style="max-width: 100%;">
-    <img src="https://camo.githubusercontent.com/d6de31463470dd4540e7ece7849e6d38d423…7468652d6261646765266c6f676f3d7562756e7475266c6f676f436f6c6f723d7768697465" style="max-width: 100%;">
-    <img src="https://camo.githubusercontent.com/41281b9a32f13ac5b9d41ed9bae12c0de662…68652d6261646765266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </p>
 
 ##### *If you want to know more about me or just want to get in touch, feel free to contact me here: [mail](crisdevs117@gmail.com)*
