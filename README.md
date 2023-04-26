@@ -6,7 +6,6 @@
 
 ## Hello! I am Cristhian, you can call me Chrs or Creyk.
 
-______________________________________________
 ### I'm a programming student with a deep connection to nature and a commitment to sustainability. My goal is to use my programming and artistic skills to make a positive difference in the world and help protect the planet and life.
 ### Currently studying Software Engineer at [Hoberton School](https://www.holbertonschool.com/)
 
