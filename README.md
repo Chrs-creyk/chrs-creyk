@@ -8,6 +8,12 @@
 <a>
 <p align="center">
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" style="max-width: 100%;">
+
 </p>
 
 <img src="https://camo.githubusercontent.com/3084f13……6c653d6…" data-canonical-src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF" style="max-width: 100%;">
