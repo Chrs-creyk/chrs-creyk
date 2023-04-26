@@ -29,6 +29,13 @@
 ### When I'm not immersed into a screen, I enjoy spending time outdoors or learning about new technologies, as I firmly believe technology can be used to improve our world and help protect our environment.
 ### In addition to my technical skills, I also have excellent collaboration and communication skills, which allow me to work well in teams and contribute to projects with other developers from around the world.
 
+##Operating Systems
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/878e15b4f7576e844856dc60d855ba0587d3…2d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b">
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d6de31463470dd4540e7ece7849e6d38d423…7468652d6261646765266c6f676f3d7562756e7475266c6f676f436f6c6f723d7768697465">…</a>
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/41281b9a32f13ac5b9d41ed9bae12c0de662…68652d6261646765266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465">
+
 ##### *If you want to know more about me or just want to get in touch, feel free to contact me here: [mail](crisdevs117@gmail.com)*
 
 ## **Thank you for visiting my profile and being a part of my commitment to the world!🌱**
