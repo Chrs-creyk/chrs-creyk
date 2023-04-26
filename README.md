@@ -4,7 +4,9 @@
 
  # **Welcome to my GitHub profile**
 
-## Hello! I am Cristhian, you can call me Chrs or Creyk. <p>
+<p>
+
+## Hello! I am Cristhian, you can call me Chrs or Creyk.
 <img src="https://camo.githubusercontent.com/04018a48f730d94ca482bbdcfc82731426bc6a4331b81c02fd01b42ff9427166/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6a686f6e615269766572267374796c653d666f722d7468652d6261646765" style="max-width: 100%;">
 </p>
 <a>
@@ -18,7 +20,6 @@
     <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" style="max-width: 100%;">
 
 </p>
-
 
 
 ### I'm a programming student with a deep connection to nature and a commitment to sustainability. My goal is to use my programming and artistic skills to make a positive difference in the world and help protect the planet and life.
