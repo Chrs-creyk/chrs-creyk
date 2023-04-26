@@ -29,13 +29,14 @@
 ### When I'm not immersed into a screen, I enjoy spending time outdoors or learning about new technologies, as I firmly believe technology can be used to improve our world and help protect our environment.
 ### In addition to my technical skills, I also have excellent collaboration and communication skills, which allow me to work well in teams and contribute to projects with other developers from around the world.
 
-## Operating Systems
 
-<p align="center">
+## Operating Systems
+<p align="center"> 
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="max-width: 100%;">
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" style="max-width: 100%;">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </p>
+__________________
 
 ##### *If you want to know more about me or just want to get in touch, feel free to contact me here: [mail](crisdevs117@gmail.com)*
 
