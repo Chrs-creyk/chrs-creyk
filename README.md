@@ -6,6 +6,9 @@
 
 ## Hello! I am Cristhian, you can call me Chrs or Creyk.
 <a>
+<p align="center">
+  <img src="imagen.png" alt="Descripción de la imagen" width="400" height="400">
+</p>
 <img src="https://camo.githubusercontent.com/470dcc6……7374796…" data-canonical-src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" style="max-width: 100%;">
 
 <img src="https://camo.githubusercontent.com/3084f13……6c653d6…" data-canonical-src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF" style="max-width: 100%;">
