@@ -14,7 +14,6 @@
     align="center">
     <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF" style="max-width: 100%;">
     <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white" style="max-width: 100%;">
-    <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white" style="max-width: 100%;">
     <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" style="max-width: 100%;">
     <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF" style="max-width: 100%;">
     <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF" style="max-width: 100%;">
