@@ -10,9 +10,9 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF" style="max-width: 100%;">
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" style="max-width: 100%;">
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" style="max-width: 100%;">
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF" style="max-width: 100%;">
+  <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF" style="max-width: 100%;">
 
 </p>
 
