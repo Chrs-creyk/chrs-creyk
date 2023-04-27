@@ -12,13 +12,13 @@
 
 
 
-### Currently studying Software Engineer at [Hoberton School](https://www.holbertonschool.com/)
+#### Currently studying Software Engineer at [Hoberton School](https://www.holbertonschool.com/)
 #### I'm a programming student with a deep connection to nature and a commitment to sustainability. My goal is to use my programming and artistic skills to make a positive difference in the world creating effective and efficient solutions to the environmental challenges we face.
 ### When I'm not immersed into a screen, I enjoy spending time learning about new technologies or outdoors, as I firmly believe technology can be used to improve world and help protect our environment.
 
 ### In addition to my technical skills, I also have excellent collaboration and communication skills, which allow me to work well in teams and contribute to projects with other developers from around the world.
 
-<h2 align="center"> SKILLS </h2>
+<h3 align="center"> SKILLS </h3>
 <p align="center"> 
     <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF" style="max-width: 100%;">
     <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white" style="max-width: 100%;">
@@ -33,7 +33,7 @@
     <img src=" https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white "style="max-width: 100%;">
     
 </p>
-<h2 align="center"> OPERATING SYSTEMS </h2>
+<h3 align="center"> OPERATING SYSTEMS </h3>
 <p align="center">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
