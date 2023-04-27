@@ -26,6 +26,12 @@
     <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF" style="max-width: 100%;">
     <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF" style="max-width: 100%;">
     <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"style="max-width: 100%;">
+    <img src=" https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54 "style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E "style="max-width: 100%;">
+    <img src=" https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white "style="max-width: 100%;">
+    <img src=" https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white "style="max-width: 100%;">
+    
 </p>
 <h2 align="center"> OPERATING SYSTEMS </h2>
 <p align="center">
