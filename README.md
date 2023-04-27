@@ -10,7 +10,22 @@
 
 </p>
 
-<a>
+
+
+### Currently studying Software Engineer at [Hoberton School](https://www.holbertonschool.com/)
+### I'm a programming student with a deep connection to nature and a commitment to sustainability. My goal is to use my programming and artistic skills to make a positive difference in the world creating effective and efficient solutions to the environmental challenges we face.
+### When I'm not immersed into a screen, I enjoy spending time learning about new technologies or outdoors, as I firmly believe technology can be used to improve world and help protect our environment.
+
+### In addition to my technical skills, I also have excellent collaboration and communication skills, which allow me to work well in teams and contribute to projects with other developers from around the world.
+
+
+<h2 aling="center" Skills> </h2>
+<p align="center"> 
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+</p>
+
 <p align="center">
     <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF" style="max-width: 100%;">
     <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white" style="max-width: 100%;">
@@ -21,21 +36,6 @@
 
 </p>
 
-
-### I'm a programming student with a deep connection to nature and a commitment to sustainability. My goal is to use my programming and artistic skills to make a positive difference in the world and help protect the planet and life.
-### Currently studying Software Engineer at [Hoberton School](https://www.holbertonschool.com/)
-
-### I am passionate about technology and believe we can use it to create effective and efficient solutions to the environmental challenges we face.
-### When I'm not immersed into a screen, I enjoy spending time learning about new technologies or outdoors, as I firmly believe technology can be used to improve our world and help protect our environment.
-### In addition to my technical skills, I also have excellent collaboration and communication skills, which allow me to work well in teams and contribute to projects with other developers from around the world.
-
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/918fce8d50581bd97b7133e677a78ed2cad1…2d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465">…</a>
-## Operating Systems
-<p align="center"> 
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-</p>
 
 ##### *If you want to know more about me or just want to get in touch, feel free to contact me here: [mail](crisdevs117@gmail.com)*
 
