@@ -6,12 +6,12 @@
 
 <p>
 
-## Hello! I am Cristhian, you can call me Chrs or Creyk.
-<img src="https://camo.githubusercontent.com/04018a48f730d94ca482bbdcfc82731426bc6a4331b81c02fd01b42ff9427166/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6a686f6e615269766572267374796c653d666f722d7468652d6261646765" style="max-width: 100%;">
+<h2 align="center"> Hello! I am Cristhian, you can call me Chrs or Creyk. </h2>
+
 </p>
+
 <a>
-<p ## skills 
-    align="center">
+<p align="center">
     <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF" style="max-width: 100%;">
     <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white" style="max-width: 100%;">
     <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" style="max-width: 100%;">
@@ -29,7 +29,7 @@
 ### When I'm not immersed into a screen, I enjoy spending time learning about new technologies or outdoors, as I firmly believe technology can be used to improve our world and help protect our environment.
 ### In addition to my technical skills, I also have excellent collaboration and communication skills, which allow me to work well in teams and contribute to projects with other developers from around the world.
 
-
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/918fce8d50581bd97b7133e677a78ed2cad1…2d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465">…</a>
 ## Operating Systems
 <p align="center"> 
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
@@ -39,4 +39,4 @@
 
 ##### *If you want to know more about me or just want to get in touch, feel free to contact me here: [mail](crisdevs117@gmail.com)*
 
-## **Thank you for visiting my profile and being a part of my commitment to the world!🌱**
+### **Thank you for visiting my profile and being a part of my commitment to the world!**
