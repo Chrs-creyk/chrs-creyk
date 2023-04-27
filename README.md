@@ -2,7 +2,7 @@
     <img alt="Earth" src="https://github.com/jzamora5/jzamora5/raw/main/assets/Earth.gif?raw=true" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </p>
 
- # **Welcome to my GitHub profile**
+<h1 align="center"> **Welcome to my GitHub profile** </h1>
 
 <p>
 
