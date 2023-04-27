@@ -2,14 +2,7 @@
     <img alt="Earth" src="https://github.com/jzamora5/jzamora5/raw/main/assets/Earth.gif?raw=true" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </p>
 
-<h1 align="center"> Welcome to my GitHub profile </h1>
-
-<p>
-
-<h2 align="center"> Hello! I am Cristhian, you can call me Chrs or Creyk. </h2>
-
-</p>
-
+<h1 align="center"> Hello! I am Cristhian or (Chrs), welcome to my GitHub profile </h1>
 
 
 #### Currently studying Software Engineer at [Hoberton School](https://www.holbertonschool.com/)
