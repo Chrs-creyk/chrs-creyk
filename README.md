@@ -12,8 +12,8 @@
 
 
 
-# Currently studying Software Engineer at [Hoberton School](https://www.holbertonschool.com/)
-# I'm a programming student with a deep connection to nature and a commitment to sustainability. My goal is to use my programming and artistic skills to make a positive difference in the world creating effective and efficient solutions to the environmental challenges we face.
+### Currently studying Software Engineer at [Hoberton School](https://www.holbertonschool.com/)
+#### I'm a programming student with a deep connection to nature and a commitment to sustainability. My goal is to use my programming and artistic skills to make a positive difference in the world creating effective and efficient solutions to the environmental challenges we face.
 ### When I'm not immersed into a screen, I enjoy spending time learning about new technologies or outdoors, as I firmly believe technology can be used to improve world and help protect our environment.
 
 ### In addition to my technical skills, I also have excellent collaboration and communication skills, which allow me to work well in teams and contribute to projects with other developers from around the world.
