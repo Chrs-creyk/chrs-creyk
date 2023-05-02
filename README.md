@@ -6,11 +6,11 @@
 <p>
 <h2 align="center"> Hello! I am Cristhian, you can call me Chrs or Creyk. </h2>
 
-<p align="center"> 
+<h2 align="center"> 
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width: 100%;">
 
-</p>
+</h2>
 
 ### Currently studying Software Engineer at [Hoberton School](https://www.holbertonschool.com/)
 #### I'm a programming student with a deep connection to nature and a commitment to sustainability. I like enojoy time learning about new technologies and my goal is to use my programming and artistic skills to make a positive difference in the world creating effective and efficient solutions to the environmental challenges we face, as I firmly believe technology can be used to improve world and help protect our environment.
