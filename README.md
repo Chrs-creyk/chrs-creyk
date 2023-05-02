@@ -19,6 +19,7 @@
 
 #### In addition to my technical skills, I also have excellent collaboration and communication skills, which allow me to work well in teams and contribute to projects with other developers from around the world.
 
+
 <h2 align="center"> SKILLS </h2>
 <p align="center"> 
     <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF" style="max-width: 100%;">
