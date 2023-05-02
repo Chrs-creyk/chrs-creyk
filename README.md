@@ -5,7 +5,7 @@
 
 <p>
 <h2 align="center"> Hello! I am Cristhian, you can call me Chrs or Creyk. </h2>
-_______________________
+
 <p align="center"> 
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width: 100%;">
