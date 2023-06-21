@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Earth" src="https://github.com/jzamora5/jzamora5/raw/main/assets/Earth.gif?raw=true" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+    <img alt="Earth" src="[https://github.com/jzamora5/jzamora5/raw/main/assets/Earth.gif?raw=true](https://cutewallpaper.org/21/matrix-gif-wallpaper/The-matrix-GIF-on-GIFER-by-Bralrajas.gif)" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </p>
 
 
